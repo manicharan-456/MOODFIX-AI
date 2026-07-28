@@ -1,0 +1,6 @@
+{
+  "name": "MoodFlix AI",
+  "description": "AI-powered mood-based movie recommendation platform with semantic search, emotion analysis, and natural-language explanations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
